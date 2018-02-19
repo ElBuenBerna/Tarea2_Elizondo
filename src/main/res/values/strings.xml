@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment2_Elizondo</string>
+    <string name="title">VINTAGE BICYCLE</string>
+    <string name="color">COLOR</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="measurement">MEASUREMENT</string>
+    <string name="addToCart">ADD TO CART</string>
+    <string name="description_text">Custom ligthweight steel frame. Unrestored in beautiful
+    original condition. Lightly used and well kept. Full super record build.</string>
+    <string name="measurement_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in congue dolor. Nulla eget est accumsan felis fermentum efficitur. Donec vestibulum odio sem, eu ultricies nisi porttitor et. Ut facilisis at nisi interdum congue. Proin dictum viverra nisl. Donec mauris tortor, sollicitudin vel iaculis vel, dapibus eget orci. Donec a tortor quis turpis tristique lacinia sit amet ac risus. Aenean venenatis aliquam mollis. Donec sed tellus risus. Aliquam erat volutpat. Pellentesque tempor nulla quis lectus laoreet, sit amet bibendum metus porttitor.</string>
+    <string name="size_s">S</string>
+    <string name="size_m">M</string>
+    <string name="size_l">L</string>
+    <string name="size_xl">XL</string>
+    <string name="toast_plusone">+1 to Vintage Bicycle</string>
+    <string name="addedToCart">ADDED TO CART</string>
+    <string name="itemAlreadyAdded">Item already is in Cart</string>
+</resources>

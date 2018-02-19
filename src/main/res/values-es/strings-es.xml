@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea2_Elizondo</string>
+    <string name="title">BICICLETA VINTAGE</string>
+    <string name="color">COLOR</string>
+    <string name="description">DESCRIPCIÓN</string>
+    <string name="measurement">MEDIDAS</string>
+    <string name="addToCart">AÑADIR AL CARRITO</string>
+    <string name="description_text">Bastidor de acero ligero personalizado. Sin restaurar en hermosa condición original. Ligeramente usado y bien cuidado. Completa creación de súper registro.</string>
+    <string name="measurement_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in congue dolor. Nulla eget est accumsan felis fermentum efficitur. Donec vestibulum odio sem, eu ultricies nisi porttitor et. Ut facilisis at nisi interdum congue. Proin dictum viverra nisl. Donec mauris tortor, sollicitudin vel iaculis vel, dapibus eget orci. Donec a tortor quis turpis tristique lacinia sit amet ac risus. Aenean venenatis aliquam mollis. Donec sed tellus risus. Aliquam erat volutpat. Pellentesque tempor nulla quis lectus laoreet, sit amet bibendum metus porttitor.</string>
+    <string name="size_s">CHC</string>
+    <string name="size_m">MED</string>
+    <string name="size_l">GDE</string>
+    <string name="size_xl">EGDE</string>
+    <string name="toast_plusone">+1 para Bicicleta Vintage</string>
+    <string name="addedToCart">AÑADIDO AL CARRITO</string>
+    <string name="itemAlreadyAdded">El item ya estaba añadido</string>
+</resources>
